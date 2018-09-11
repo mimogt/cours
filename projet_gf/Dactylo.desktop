@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Dactylo
+Exec=env WINEPREFIX="/home/mimogt/.wine" wine-stable C:\\\\Program\\ Files\\ \\(x86\\)\\\\Dactylo\\\\Dactyl.exe 
+Type=Application
+StartupNotify=true
+Icon=6D49_Dactyl.0
+StartupWMClass=dactyl.exe
